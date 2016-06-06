@@ -1,0 +1,33 @@
+{
+  "name": "react-es6",
+  "version": "1.0.0",
+  "description": "react es6 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshponnala/react-es6.git"
+  },
+  "keywords": [
+    "react-es6"
+  ],
+  "author": "Rajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshponnala/react-es6/issues"
+  },
+  "homepage": "https://github.com/rajeshponnala/react-es6#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "webpack": "^1.13.1"
+  }
+}
